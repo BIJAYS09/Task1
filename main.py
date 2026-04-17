@@ -9,7 +9,7 @@ Usage:
     python stem_agent/main.py
 """
 
-from .stem_agent import config
+import config
 from compiler import GraphCompiler
 from evolution import Evolution
 from utils import summarize_spec
