@@ -1,6 +1,4 @@
 """
-config.py
----------
 Central configuration and shared mutable state.
 """
 

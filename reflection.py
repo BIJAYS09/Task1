@@ -1,6 +1,4 @@
 """
-reflection.py
--------------
 Post-execution reflection: asks the LLM to critique an agent's output
 and return a list of improvement suggestions.
 """

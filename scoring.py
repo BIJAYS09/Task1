@@ -1,6 +1,4 @@
 """
-scoring.py
-----------
 Heuristic fitness-scoring functions that don't require an LLM call.
 """
 

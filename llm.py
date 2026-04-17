@@ -1,6 +1,5 @@
 """
-llm.py
-------
+
 Thin wrapper around the Groq client with retry logic.
 """
 

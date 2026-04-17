@@ -1,10 +1,5 @@
 """
-ui.py
------
 Streamlit dashboard for the Stem Agent Evolution system.
-
-Run with:
-    streamlit run stem_agent/ui.py
 """
 
 import json

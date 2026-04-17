@@ -1,6 +1,4 @@
 """
-utils.py
---------
 Pure helper functions shared across modules.
 """
 

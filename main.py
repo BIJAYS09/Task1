@@ -1,13 +1,3 @@
-"""
-main.py
--------
-Command-line entry point for the Stem Agent Evolution system.
-
-Usage:
-    python -m stem_agent.main
-    # or
-    python stem_agent/main.py
-"""
 
 import config
 from compiler import GraphCompiler

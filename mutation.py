@@ -1,6 +1,4 @@
 """
-mutation.py
------------
 Mutation strategies that produce new GraphGenome instances from existing ones.
 """
 

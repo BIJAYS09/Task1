@@ -1,6 +1,4 @@
 """
-compiler.py
------------
 Compiles a graph spec into a runnable LangGraph state-machine
 and executes it against a task.
 """

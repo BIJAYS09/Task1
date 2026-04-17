@@ -1,6 +1,4 @@
 """
-genome.py
----------
 GraphGenome: the unit of evolution.
 """
 

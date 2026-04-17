@@ -1,6 +1,4 @@
 """
-evolution.py
-------------
 Core evolutionary loop: population management, battles, and selection.
 """
 
