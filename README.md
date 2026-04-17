@@ -20,6 +20,8 @@ A local project for evolving reasoning agents.
 
     pip install -r requirements.txt
 
+4.  Add groq api key in .env file.
+
 ## Run
 
 ### Streamlit UI
